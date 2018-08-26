@@ -8,6 +8,6 @@ Register new user,
 Add new products as admin,
 check out.
 
-Admin account for managing database:\n
-account:  old4g@old4g.com\n
-password: 123456\n
+Admin account for managing database:
+ account:  old4g@old4g.com,
+ password: 123456
